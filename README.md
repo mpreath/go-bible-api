@@ -1,16 +1,7 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+<img width="200" src="https://hopeintigard.com/wp-content/uploads/2021/03/Bible-Icon-01.png" align="left">
 
-<table>
-  <tr>
-    <td><img width="200" src="https://hopeintigard.com/wp-content/uploads/2021/03/Bible-Icon-01.png" align="left"></td>
-    <td># Mission
+# Mission
 Our mission is to provide an open platform for accessing and searching public domain Bible translations that any organization or person can freely deploy and use within their own applications and solutions.  We have a production-level deployment of the architecture, funded by charitable giving, available for public use. For larger scale needs its recommended that organizations deploy their own instance.</td>
-  </tr>
-</table>
 
 # Overview
 Coming soon.
