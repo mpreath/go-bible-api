@@ -10,6 +10,7 @@ Coming soon.
 - Go
 - Gorilla mux for routing endpoints
 - MySQL
+- [scrollmapper/bible_database](https://github.com/scrollmapper/bible_databases?tab=readme-ov-file)
 
 # Bible Translations
 We support and have easy to deploy content for most public domain bible translations.  As translations become public domain we'll look to add them into the supported set of translations.
