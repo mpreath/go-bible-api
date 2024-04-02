@@ -1,5 +1,5 @@
 # Mission
-Our mission is to provide a platform an open platform for accessing and searching public domain Bible translations that any organization or person can freely deploy and use within their own applications and solutions. 
+Our mission is to provide an open platform for accessing and searching public domain Bible translations that any organization or person can freely deploy and use within their own applications and solutions.  We have a production-level deployment of the architecture, funded by charitable giving, available for public use. For larger scale needs its recommended that organizations deploy their own instance.
 
 # Overview
 Coming soon.
