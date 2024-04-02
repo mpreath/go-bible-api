@@ -9,7 +9,7 @@ Coming soon.
 # Architecture
 - Go
 - Gorilla mux for routing endpoints
-- MySQL
+- MariaDB
 
 # Bible Translations
 We support and have easy to deploy content for most public domain bible translations.  As translations become public domain we'll look to add them into the supported set of translations.
