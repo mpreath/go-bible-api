@@ -7,20 +7,9 @@ Our mission is to provide an open platform for accessing and searching public do
 Coming soon.
 
 # Architecture
-- Go
-- chi router
-- MariaDB
+- [Go](https://go.dev/)
+- [go-chi/chi ](https://github.com/go-chi/chi)
+- [MariaDB](https://mariadb.org/)
 
 # Bible Translations
 We support and have easy to deploy content for most public domain bible translations.  As translations become public domain we'll look to add them into the supported set of translations.
-
-<table>
-  <tr>
-    <td>Translation</td>
-    <td>Supported?</td>
-  </tr>
-  <tr>
-    <td>WEB</td>
-    <td>Full</td>
-  </tr>
-</table>
