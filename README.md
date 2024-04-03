@@ -8,7 +8,7 @@ Coming soon.
 
 # Architecture
 - Go
-- Gorilla mux for routing endpoints
+- chi router
 - MariaDB
 
 # Bible Translations
