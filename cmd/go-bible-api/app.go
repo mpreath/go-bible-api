@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-    "github.com/go-chi/chi/v5"
+	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
 )
 
@@ -25,9 +25,9 @@ func NewApp(config *Config) *App {
 }
 
 func (app *App) initialize() {
-    app.Router.Use(middleware.Logger)
+	app.Router.Use(middleware.Logger)
 
-    app.Router.Get("/", Root)
+	app.Router.Get("/", Root)
 }
 
 func (app *App) Run() {
